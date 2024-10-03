@@ -1,0 +1,9 @@
+Command for watching file changes
+
+tsc fileName --watch 
+tsc fileName -w
+
+In case of watching all the files we can initilise tsc 
+
+tsc --init
+tsc -w
